@@ -1,2 +1,3 @@
 # hello-world
-Practice for Github
+Hey, guys.
+How do you do!
